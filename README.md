@@ -1,7 +1,7 @@
 ## Olá!, eu sou o Alex Ricardo Henz !!!
 
 - 🔭 Hoje eu trabalho com desenvolvimento Powerbuilder
-- 🌱 Eu estou estudando Data Science , PHP , CSS e JavaScript , SQL para Data Analysis.
+- 🌱 Eu estou estudando Data Science,SQL para Data Analysis,PHP,CSS,JavaScript
 - 📫 Contate me no e-mail: alexhenz@gmail.com
 - 😄 Pronouns: Ele/Dele
 
