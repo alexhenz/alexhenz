@@ -1,7 +1,7 @@
 ## Olá!, eu sou o Alex Ricardo Henz !!!
 
 - 🔭 Hoje eu trabalho com desenvolvimento Powerbuilder
-- 🌱 Eu estou estudando Data Science,SQL para Data Analysis,PHP,CSS,JavaScript
+- 🌱 Eu estou estudando Data Science,SQL para Data Analysis,PHP,CSS,JavaScript,.NET
 - 📫 Contate me no e-mail: alexhenz@gmail.com
 - 😄 Pronouns: Ele/Dele
 
@@ -25,7 +25,7 @@
 <div> 
   <a href="https://www.youtube.com/channel/UCS4bsACjEO7ateWajwQBKhw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target= "_blank"></a>
   <a href="https://instagram.com/henzalex" target= "_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/alexrhenz" target= "_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/nzhcwb" target= "_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/5aVcRVYd" target= "_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:alexhenz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target= "_blank"></a>
-  <a href="https://www.linkedin.com/in/alex-ricardo-henz-a4b83916/" target= "_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target= "_blank"></a> 
+  <a href="https://www.linkedin.com/in/alexhenz/" target= "_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target= "_blank"></a> 
