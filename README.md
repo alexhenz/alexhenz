@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu trabalho com desenvolvimento PL/SQL - Oracle
 - 🌱 Eu estou estudando Data Science,SQL para Data Analysis,PHP,CSS,JavaScript,.NET,Python
-- 📫 Contate me no e-mail: alexhenz@gmail.com
+- 📫 Entre em contato comigo pelo e-mail: alexhenz@gmail.com
 - 😄 Pronouns: Ele/Dele
 
  <div>
