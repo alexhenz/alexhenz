@@ -20,7 +20,6 @@ Sou um profissional apaixonado por tecnologia, banco de dados e engenharia de so
 - 🔭 No dia a dia, trabalho bastante com desenvolvimento **PL/SQL - Oracle**, modelagem e governança de dados.
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na Universidade Estácio.
 - 🌱 Aprimorando conhecimentos em **Data Science, SQL para Data Analysis, PHP, CSS, JavaScript, .NET e Python**.
-- 😄 Pronomes: Ele/Dele.
 
 ---
 
