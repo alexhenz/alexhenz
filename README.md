@@ -141,7 +141,7 @@
     <tr>
       <td align="center" valign="middle">
         <a href="https://github.com/alexhenz">
-          <img src="https://github-readme-stats.vercel.app/api?username=alexhenz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="Alex Henz GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=alexhenz&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="Alex Henz GitHub Stats" />
         </a>
       </td>
       <td align="center" valign="middle">
